@@ -1,0 +1,102 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+}
+img{
+    border:0px;
+}
+ul ,ol{
+    list-style-type: none;
+
+}
+a{
+    text-decoration: none;
+}
+body{
+
+}
+.clr{
+    clear: both;
+}
+.card_header_title{
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 18px;
+
+}
+.card_header_title i{
+    margin-right: 5px;
+}
+.card_header_button{
+    text-align: right;
+    text-transform: uppercase;
+     
+
+}
+.card_header_button a{
+    color: #333333;
+    font-weight: 600;
+    font-size: 18px  ;
+
+}
+.custom-table thead{
+    background: #333333;
+    color: #ffffff;
+
+}
+.custom-table thead tr th{
+    text-align: center;
+}
+.custom-table tbody tr td{
+    color: #111111;
+}
+.custom-form-group label{
+    text-align: right;
+    margin-top: 8px;
+    padding-right: 0px;
+    font-size: 18px;
+}
+.add_user_drop li a{
+color: #ffffff;
+}
+.custom-view-table{
+
+}
+.custom-view-table tr{
+    
+}
+.custom-view-table tr td{
+    font-size: 15px;
+    
+    
+}
+.custom-view-table tr td:first-child{
+    width: 28%;
+    text-align: right;
+    font-weight: bold;
+    color: #333333;
+    
+}
+.custom-view-table tr td:last-child{
+    width: 70%;
+    text-align: left;
+    
+}
+.has-error .form-control{
+    border: 1px solid red;
+}
+
+.has-error .form-control-label{
+    color: red;
+}
+.has-error .invalid-feedback {
+    display: block;
+    margin-left: 12px;
+ 
+}
+.req-star{
+    color: red;
+}
+
