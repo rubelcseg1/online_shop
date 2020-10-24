@@ -43,6 +43,7 @@
                                     <label class="col-sm-3 form-control-label">name</label>
                                     <div class="col-sm-7">
                                         <input type="text" value="" name="name" class="form-control col-sm-12" id="">
+                                        <input type="text" value="" name="" class="form-control col-sm-12" id="">
                                       
                                     </div>
                                 </div>
